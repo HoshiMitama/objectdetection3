@@ -1,0 +1,26 @@
+<annotation>
+    <folder>output</folder>
+    <filename>20-07.jpg</filename>
+    <path>D:\PythonPrograms\DishRecognition\bounding-box-augmentation-master\output\20-07.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>dish10</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>314</xmin>
+            <ymin>0</ymin>
+            <xmax>663</xmax>
+            <ymax>274</ymax>
+        </bndbox>
+    </object>
+</annotation>
